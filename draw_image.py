@@ -120,6 +120,8 @@ story(526, 814, 456, "06", "Technology · Markets", "Anthropic raises about $81 
 rule(925, 42, 982, INK, 2)
 d.text((43, 940), "A DAY OF JUSTICE, DIPLOMACY, CONFLICT, CLIMATE AND RECORDS", font=fit("A DAY OF JUSTICE, DIPLOMACY, CONFLICT, CLIMATE AND RECORDS", 780, 14), fill=INK)
 d.text((884, 940), "01 / 01", font=f(12, True), fill=RED)
+d.line((42, 964, 982, 964), fill=RULE, width=1)
+d.text((43, 973), "Sources: UN News, Horizon, 10 Things, eGazette, BBC, Foreign Exchanges — 19 November 2026", font=fit("Sources: UN News, Horizon, 10 Things, eGazette, BBC, Foreign Exchanges — 19 November 2026", 930, 12, False, 10), fill=MUTED)
 d.rectangle((0, 1013, W, 1024), fill=RED)
 
 im.save("entry.png", format="PNG", optimize=True)
