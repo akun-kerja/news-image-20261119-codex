@@ -1,5 +1,11 @@
 # The World Ledger — 19 November 2026
 
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/akun-kerja/news-image-20261119-codex/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/akun-kerja/news-image-20261119-codex/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
+Bounty page: https://make.fun/bounty/news-image-20261119
+
 A one-page illustrated newspaper front page summarizing six supplied world-news stories from Thursday, 19 November 2026. It is drawn from shapes and typography, with the International Court of Justice ruling on Myanmar and the Rohingya as the lead.
 
 ## The six stories
